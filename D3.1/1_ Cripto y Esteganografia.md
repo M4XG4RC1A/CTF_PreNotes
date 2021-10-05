@@ -107,3 +107,5 @@ unzip imageName
 ```
 
 Despues de PK tenemos informacion
+
+https://www.youtube.com/watch?v=LsDOpDQtu_8
